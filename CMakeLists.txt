@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(ingresar_un_entero__determinar_primo_por_while)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(ingresar_un_entero__determinar_primo_por_while main.cpp)

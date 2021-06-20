@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ingresar_un_entero__determinar_primo_por_while.dir/objects.a
+C:\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\ingresar_un_entero__determinar_primo_por_while.dir/objects.a @CMakeFiles\ingresar_un_entero__determinar_primo_por_while.dir\objects1.rsp
+C:\Mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ingresar_un_entero__determinar_primo_por_while.dir/objects.a -Wl,--no-whole-archive -o ingresar_un_entero__determinar_primo_por_while.exe -Wl,--out-implib,libingresar_un_entero__determinar_primo_por_while.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ingresar_un_entero__determinar_primo_por_while.dir\linklibs.rsp

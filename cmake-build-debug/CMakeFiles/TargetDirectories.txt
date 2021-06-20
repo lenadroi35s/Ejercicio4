@@ -1,0 +1,3 @@
+C:/Users/LS/CLionProjects/ingresar_un_entero__determinar_primo_por_while/cmake-build-debug/CMakeFiles/ingresar_un_entero__determinar_primo_por_while.dir
+C:/Users/LS/CLionProjects/ingresar_un_entero__determinar_primo_por_while/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LS/CLionProjects/ingresar_un_entero__determinar_primo_por_while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
